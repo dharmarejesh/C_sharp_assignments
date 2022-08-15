@@ -1,0 +1,6 @@
+C:\Users\UJUAL SREEDHARAN\source\repos\ConsoleApp4\LitwareLib\bin\Debug\LitwareLib.dll
+C:\Users\UJUAL SREEDHARAN\source\repos\ConsoleApp4\LitwareLib\bin\Debug\LitwareLib.pdb
+C:\Users\UJUAL SREEDHARAN\source\repos\ConsoleApp4\LitwareLib\obj\Debug\LitwareLib.csproj.AssemblyReference.cache
+C:\Users\UJUAL SREEDHARAN\source\repos\ConsoleApp4\LitwareLib\obj\Debug\LitwareLib.csproj.CoreCompileInputs.cache
+C:\Users\UJUAL SREEDHARAN\source\repos\ConsoleApp4\LitwareLib\obj\Debug\LitwareLib.dll
+C:\Users\UJUAL SREEDHARAN\source\repos\ConsoleApp4\LitwareLib\obj\Debug\LitwareLib.pdb

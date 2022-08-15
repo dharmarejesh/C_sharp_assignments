@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleApp4/1.0.0": {
+        "dependencies": {
+          "LitwareLib": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleApp4.dll": {}
+        }
+      },
+      "LitwareLib/1.0.0": {
+        "runtime": {
+          "LitwareLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LitwareLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
